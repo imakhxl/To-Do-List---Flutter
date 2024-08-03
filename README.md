@@ -1,7 +1,36 @@
-# To - Doey
+# CODTECH - Task2
 
+**Name:** AKHIL JYOTHIDAS
+
+**Company:** CODTECH IT SOLUTIONS
+
+**ID:** CT12DS4859
+
+**Domain:** Android App Development
+
+**Duration:** July 15 to August 15, 2024
+
+**Mentor:** MUZAMMIL AHMED
+
+## Overview of the project
+
+### Project: To-Do List App
+
+### Objective
 A Flutter app which showcases State Management by providing a To-Do List containing a list of tasks with checkboxes, which 
 can be ticked to cross off tasks. It uses the Provider package to prevent prop drilling. 
 
  ![image](https://github.com/imakhxl/To-Doey-App--Flutter/assets/143579088/33ca3b2b-eb16-4e68-b42b-7661b4ffa0cf)
 ![image](https://github.com/imakhxl/To-Doey-App--Flutter/assets/143579088/bc25f96a-09cf-4b1b-8214-d5d066be0582)
+
+### Key Activities
+- Display a list of tasks
+- Tasks can be checked off when completed
+- Feature to add tasks
+- Feature to delete tasks
+- Displays the live number of tasks
+
+### Technologies Used
+- Flutter
+- Dart
+- Provider Package
