@@ -1,4 +1,4 @@
-#To Do List App 
+# To Do List App 
 
 ### Objective
 A Flutter app which showcases State Management by providing a To-Do List containing a list of tasks with checkboxes, which 
