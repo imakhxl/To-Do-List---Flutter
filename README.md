@@ -1,20 +1,4 @@
-# CODTECH - Task2
-
-**Name:** AKHIL JYOTHIDAS
-
-**Company:** CODTECH IT SOLUTIONS
-
-**ID:** CT12DS4859
-
-**Domain:** Android App Development
-
-**Duration:** July 15 to August 15, 2024
-
-**Mentor:** MUZAMMIL AHMED
-
-## Overview of the project
-
-### Project: To-Do List App
+#To Do List App 
 
 ### Objective
 A Flutter app which showcases State Management by providing a To-Do List containing a list of tasks with checkboxes, which 
